@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cadastro de Conteúdos</string>
+    <string name="titulo_listagem">Listagem de Conteúdos</string>
+    <string name="titulo_cadastro">Cadastro de Conteúdo</string>
+    <string name="menu_listagem">Listagem</string>
+    <string name="menu_cadastro">Cadastro</string>
+    <string name="hint_titulo">Título do conteúdo</string>
+    <string name="hint_descricao">Descrição do conteúdo</string>
+    <string name="botao_salvar">Salvar conteúdo</string>
+    <string name="lista_vazia">Nenhum conteúdo cadastrado ainda.</string>
+    <string name="campo_obrigatorio">Preencha este campo.</string>
+    <string name="erro_salvar">Não foi possível salvar o conteúdo.</string>
+    <string name="alerta_erro_titulo">Erro</string>
+    <string name="notificacao_titulo">Meta de cadastros atingida</string>
+    <string name="notificacao_texto">O aplicativo atingiu %1$d itens cadastrados.</string>
+    <string name="notificacao_texto_expandido">Um novo item foi inserido e o total agora é %1$d, que é um número múltiplo de 10.</string>
+    <string name="descricao_item_id">ID: %1$d</string>
+    <string name="permissao_notificacao_exp">Permita notificações para ver o aviso sempre que o total de itens chegar a um múltiplo de 10.</string>
+    <string name="cadastro_orientacao">Cadastre um novo conteúdo no banco de dados local do aplicativo.</string>
+</resources>
